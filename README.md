@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeorgeSkywalker99, i'm student.
+- 👋 Hi, I’m Jorge Guzmán, i'm student.
 - 👀 I’m interested in data science and actuarial science
 - 🌱 I’m currently learning Python, R and machine learning
 - 💞️ I’m looking to collaborate on data science projects
